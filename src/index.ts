@@ -10,7 +10,6 @@ export { default as ButtonDestructive } from "./components/ButtonDestructive.vue
 
 export { default as Card } from "./components/Card.vue"
 
-export { default as BaseInput } from "./components/BaseInput.vue"
 export { default as InputCheckbox } from "./components/InputCheckbox.vue"
 export { default as InputText } from "./components/InputText.vue"
 
